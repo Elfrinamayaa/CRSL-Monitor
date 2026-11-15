@@ -147,7 +147,6 @@ Hasil pengujian menunjukkan bahwa fitur-fitur utama CRSL Monitor berhasil dijala
 - Telegram Bot harus aktif agar dapat menerima perintah pengguna.
 - Dashboard Flask harus aktif agar website dapat diakses.
 - Jika seluruh program ingin dijalankan sekaligus di Windows, pengguna dapat menjalankan file `jalankan_crsl.bat`.
-
 ---
 
 **CRSL Monitor**  
